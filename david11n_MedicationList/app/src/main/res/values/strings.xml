@@ -1,0 +1,33 @@
+<resources>
+   <string name="app_name">david11n Medication List</string>
+   <string name="menuitem_edit">Edit</string>
+   <string name="menuitem_delete">Delete</string>
+   <string name="menuitem_exit">Exit</string>
+   <string name="hint_name_required">Medication Name Brand (Required)</string>
+   <string name="hint_email">Medication Generic</string>
+   <string name="hint_phone">DIN</string>
+   <string name="hint_street">Does</string>
+   <string name="hint_city">Time of Day</string>
+   <string name="hint_province">Physician</string>
+   <string name="hint_pcode">Refill</string>
+   <string name="label_name">Medication Name Brand:</string>
+   <string name="label_email">Medication Generic:</string>
+   <string name="label_phone">DIN:</string>
+   <string name="label_street">Does:</string>
+   <string name="label_city">Time of Day:</string>
+   <string name="label_province">Physician:</string>
+   <string name="label_pcode">Refill:</string>
+   <string name="confirm_title">Are You Sure?</string>
+   <string name="confirm_message">This will permanently delete the contact</string>
+   <string name="button_cancel">Cancel</string>
+   <string name="button_delete">Delete</string>
+   <string name="contact_added">Medication added successfully</string>
+   <string name="contact_not_added">Medication was not added due to an error</string>
+   <string name="contact_updated">Medication updated</string>
+   <string name="contact_not_updated">Medication was not updated due to an error</string>
+   <string name="invalid_query_uri">Invalid query Uri: </string>
+   <string name="invalid_insert_uri">Invalid insert Uri: </string>
+   <string name="invalid_update_uri">Invalid update Uri: </string>
+   <string name="invalid_delete_uri">Invalid delete Uri: </string>
+   <string name="insert_failed">Insert failed:</string>
+</resources>

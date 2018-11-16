@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/21d11c68316f619309aa4524003dba58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/13b6ae45e9c4dfdedf3ff2f1af8ac996/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7b624b3c9b055556af39243f6165bd7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f4e6ff5b61126bb8f75c49d7fa01145b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/14ef57de1a9e4db8ede465f25681d388/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/45be3588074fe3ff22c98a6768779992/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/087de5dcacd59342cc1d675def29cca6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/486f43f13d358cc23337e957ece0d3e9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/73b705415fa872bbdeb5a228b81aeb78/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a864fc242b0854784b1432c8ff996f90/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/23bf3990b22e33aada4079ec9738a39f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:16:5-51
+		INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+		INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+		INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:11-69
+application
+ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:18:5-30:19
+	android:supportsRtl
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/21d11c68316f619309aa4524003dba58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/21d11c68316f619309aa4524003dba58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/13b6ae45e9c4dfdedf3ff2f1af8ac996/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/13b6ae45e9c4dfdedf3ff2f1af8ac996/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7b624b3c9b055556af39243f6165bd7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7b624b3c9b055556af39243f6165bd7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f4e6ff5b61126bb8f75c49d7fa01145b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f4e6ff5b61126bb8f75c49d7fa01145b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/14ef57de1a9e4db8ede465f25681d388/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/14ef57de1a9e4db8ede465f25681d388/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/45be3588074fe3ff22c98a6768779992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/45be3588074fe3ff22c98a6768779992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/087de5dcacd59342cc1d675def29cca6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/087de5dcacd59342cc1d675def29cca6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/486f43f13d358cc23337e957ece0d3e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/486f43f13d358cc23337e957ece0d3e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/73b705415fa872bbdeb5a228b81aeb78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/73b705415fa872bbdeb5a228b81aeb78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a864fc242b0854784b1432c8ff996f90/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a864fc242b0854784b1432c8ff996f90/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/23bf3990b22e33aada4079ec9738a39f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/benjamin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/23bf3990b22e33aada4079ec9738a39f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml

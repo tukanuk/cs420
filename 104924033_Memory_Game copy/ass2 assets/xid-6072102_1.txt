@@ -1,0 +1,10 @@
+The colour of the universe is black 			, false  
+The chicken came before the egg				, true
+The sun is actually a star				, true
+DNA is made from protein				, false
+Bats aren't blind					, true
+The memory span of a goldfish is a few seconds		, false 
+6 cows, 9 chickens and 12 humans have 66 legs		, true
+Vegetarian diet can provide enough protein		, true
+Eating less than an hour before swimming causes cramps	, false
+Lightning strikes the same place twice			, true

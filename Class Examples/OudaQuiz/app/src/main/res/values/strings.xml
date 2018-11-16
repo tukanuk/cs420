@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OudaQuiz</string>
+
+    <string name="question_university">Windsor University is a GREAT University.</string>
+    <string name="question_department">Computer Science is an EXCELLENT department.</string>
+    <string name="question_classroom">Room 355 is a very good class room.</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+</resources>

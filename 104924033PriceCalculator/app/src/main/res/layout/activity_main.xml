@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="291dp"
+        android:layout_height="291dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="108dp"
+        android:contentDescription="@string/splash_image"
+        android:elevation="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/family_photo" />
+
+    <Button
+        android:id="@+id/exitButton"
+        style="@android:style/Widget.Button"
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="40dp"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="32dp"
+        android:onClick="exitApp"
+        android:text="@string/exit"
+        app:layout_constraintEnd_toStartOf="@+id/enterButton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+    <Button
+        android:id="@+id/enterButton"
+        style="@android:style/Widget.Button"
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="88dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="32dp"
+        android:onClick="enterCalculatorActivity"
+        android:text="@string/enter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/exitButton"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+</android.support.constraint.ConstraintLayout>

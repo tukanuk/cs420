@@ -1,0 +1,4 @@
+#Fri Oct 26 11:57:05 EDT 2018
+base.0=/Volumes/MACSTORE/Users/benjamin/Documents/Scratch/cs420/Class Examples/DroidCafe/DroidCafe/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

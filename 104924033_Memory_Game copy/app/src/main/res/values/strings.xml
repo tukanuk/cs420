@@ -1,0 +1,23 @@
+<resources>
+   <string name="app_name">david11n Memory Game</string>
+   <string name="action_settings">Settings</string>
+   <string name="number_of_choices">Number of Choices</string>
+   <string name="number_of_choices_description">Display 2, 4, 6, 8 or 10 guess buttons</string>
+   <string name="element_groups">Groups</string>
+   <string name="element_group_description">Element groups to include in the quiz</string>
+   <string name="guess_element">Guess the Element</string>
+   <string name="results">%1$d guesses, %2$.02f%% correct</string>
+   <string name="incorrect_answer">Incorrect!</string>
+   <string name="default_element_group_message">One element group must be selected. Setting Vegetables as the default element group.</string>
+   <string name="restarting_quiz">Quiz will restart with your new settings</string>
+   <string name="question">Question %1$d of %2$d</string>
+   <string name="reset_quiz">Reset Quiz</string>
+   <string name="image_description">Image of the current element in the quiz</string>
+   <string name="default_element_group">FILL THIS IN</string>
+   <string name="title_activity_settings">Settings</string>
+   <string name="exitButton">Exit</string>
+   <string name="enter">Start</string>
+   <string name="exit">Exit</string>
+    <string name="splash_image">Memory game logo</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string-array name="element_group_list">
+      <item>Cards</item>
+   </string-array>
+
+   <string-array name="element_group_list_for_settings">
+       <item>Cards</item>
+   </string-array>
+
+   <string-array name="guesses_list">
+      <item>6</item>
+      <item>12</item>
+      <item>18</item>
+      <item>24</item>
+      <item>30</item>
+   </string-array>
+
+</resources>

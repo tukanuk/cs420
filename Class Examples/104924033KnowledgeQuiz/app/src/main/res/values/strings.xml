@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">104924033KnowledgeQuiz</string>
+
+    <string name="question_colour">The colour of the universe is black</string>
+    <string name="question_chicken">The chicken came before the egg</string>
+    <string name="question_sun">The sun is actually a star</string>
+    <string name="question_DNA">DNA is made from protein</string>
+    <string name="question_bats">Bats aren\'t blind</string>
+    <string name="question_goldfish">The memory span of a goldfish is a few seconds</string>
+    <string name="question_cows">6 cows, 9 chickens and 12 humans have 66 legs</string>
+    <string name="question_veggie">Vegetarian diet can provide enough protein</string>
+    <string name="question_eating">Eating less than an hour before swimming causes cramps	</string>
+    <string name="question_lighting">Lightning strikes the same place twice</string>
+
+    <string name="correct_toast">Correct :)</string>
+    <string name="incorrect_toast">Incorrect !!</string>
+
+</resources>

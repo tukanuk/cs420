@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.david11n.weatherviewer.MainActivity">
+   <item
+       android:id="@+id/exitMenuItem"
+       android:icon="@android:drawable/ic_lock_power_off"
+       android:title="Exit"
+       app:showAsAction="ifRoom" />
+   <item
+       android:checkable="false"
+       android:enabled="false"
+       android:icon="@drawable/twitter_icon_header"
+       android:title="Item"
+       app:showAsAction="always" />
+</menu>

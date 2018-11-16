@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">104924033PriceCalculator</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+    <string name="tip_percentage">15%</string>
+    <string name="tax">Tax</string>
+    <string name="ship">Ship</string>
+    <string name="tax_percentage">13%</string>
+    <string name="ship_percentage">10%</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="exit">Exit</string>
+    <string name="enter">Enter</string>
+</resources>

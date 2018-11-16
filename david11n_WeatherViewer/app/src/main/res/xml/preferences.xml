@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <ListPreference
+       android:defaultValue="Celsius"
+       android:entries="@array/temp_choice"
+       android:entryValues="@array/temp_choice"
+       android:key="pref_tempUnit"
+       android:persistent="true"
+       android:summary="@string/temp_choice_description"
+       android:title="@string/temp_choice" />
+</PreferenceScreen>

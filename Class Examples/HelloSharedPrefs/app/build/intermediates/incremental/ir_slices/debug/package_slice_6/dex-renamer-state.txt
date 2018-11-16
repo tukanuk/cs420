@@ -1,0 +1,4 @@
+#Mon Oct 15 12:02:52 EDT 2018
+base.0=/Users/benjamin/Documents/Scratch/cs420/Class Examples/HelloSharedPrefs/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

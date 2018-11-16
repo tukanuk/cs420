@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OudaDynamicLayout</string>
+    <string name="createEditText">Create Edit Text</string>
+    <string name="createTextView">Create Text View</string>
+    <string name="createButton">Create Button</string>
+    <string name="createFragment">Create Fragment</string>
+    <string name="hideFragment">Hide Fragment</string>
+    <string name="search">Search</string>
+    <string name="hide">Hide</string>
+    <string name="reorder">Reorder</string>
+    <string name="sort">Sort</string>
+    <string name="exit">Exit</string>
+    <string name="removeFragment">Remove Fragment</string>
+    <string name="myfragment_menu">My Dynamic Fragment ...</string>
+</resources>

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/MACSTORE/Users/benjamin/Documents/Scratch/cs420/Class Examples/PowerReceiver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Volumes/MACSTORE/Users/benjamin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5fadb788b51cb2c2be12f55d8303bcf8/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/Volumes/MACSTORE/Users/benjamin/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/352b5a8aedb62aa0aee8a1386942a3df/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}

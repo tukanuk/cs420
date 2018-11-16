@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Welcome</string>
+    <string name="welcome">Ben\'s First Trillion Dollar App</string>
+    <string name="logo">double_thumbs_down_bug logo</string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="369dp"
+        android:layout_height="369dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="116dp"
+        android:layout_marginEnd="24dp"
+        android:contentDescription="@string/splash_image"
+        android:elevation="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/memorygamelogo" />
+
+    <Button
+        android:id="@+id/exitButton"
+        style="@android:style/Widget.Button"
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="40dp"
+        android:backgroundTint="@color/incorrect_answer"
+        android:onClick="exitApp"
+        android:text="@string/exit"
+        app:layout_constraintEnd_toStartOf="@+id/enterButton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+    <Button
+        android:id="@+id/enterButton"
+        style="@android:style/Widget.Button"
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="88dp"
+        android:backgroundTint="@color/great_score"
+        android:onClick="enterCalculatorActivity"
+        android:text="@string/enter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/exitButton"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="476dp"
+        android:layout_height="612dp"
+        android:layout_margin="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/logo"
+        android:elevation="-1dp"
+        android:padding="0dp"
+        android:paddingStart="0dp"
+        android:paddingLeft="0dp"
+        android:paddingTop="0dp"
+        android:paddingEnd="0dp"
+        android:paddingRight="0dp"
+        android:paddingBottom="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/tabletop" />
+
+</android.support.constraint.ConstraintLayout>

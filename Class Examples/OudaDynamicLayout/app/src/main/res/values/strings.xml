@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">OudaDynamicLayout</string>
+    <string name="createFragment1">Create Fragment1</string>
+    <string name="createFragment2">Create Fragment2</string>
+    <string name="createFragment3">Create Fragment3</string>
+    <string name="createFragment4">Create Fragment4</string>
+    <string name="createFragment5">Create Fragment5</string>
+    <string name="removeFragment1">Remove Fragment1</string>
+    <string name="removeFragment2">Remove Fragment2</string>
+    <string name="removeFragment3">Remove Fragment3</string>
+    <string name="removeFragment4">Remove Fragment4</string>
+    <string name="removeFragment5">Remove Fragment5</string>
+    <string name="search">Search</string>
+    <string name="hide">Hide</string>
+    <string name="reorder">Reorder</string>
+    <string name="sort">Sort</string>
+    <string name="exit">Exit</string>
+    <string name="fragment_1_menu">Fragment 1 ........</string>
+    <string name="fragment_2_menu">Fragment 2 ........</string>
+    <string name="fragment_3_menu">Fragment 3 ........</string>
+    <string name="fragment_4_menu">Fragment 4 ........</string>
+    <string name="fragment_5_menu">Fragment 5 ........</string>
+ </resources>

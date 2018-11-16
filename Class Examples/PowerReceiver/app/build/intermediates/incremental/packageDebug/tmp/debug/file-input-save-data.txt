@@ -1,0 +1,74 @@
+#Internal package file, do not edit.
+<<<<<<< HEAD
+#Wed Nov 14 12:28:38 EST 2018
+=======
+#Wed Nov 14 06:12:42 EST 2018
+>>>>>>> a3eabd4f586ee6c7caf959c07089ab0233e80cb9
+4.path=classes.dex
+8.set=DEX
+6.path=classes.dex
+0.baseType=DIRECTORY
+10.path=classes.dex
+5.baseType=DIRECTORY
+<<<<<<< HEAD
+1.base=/Volumes/MACSTORE/Users/benjamin/Documents/Scratch/cs420/Class Examples/PowerReceiver/app/build/intermediates/transforms/dexMerger/debug/16
+8.path=classes.dex
+3.base=/Volumes/MACSTORE/Users/benjamin/Documents/Scratch/cs420/Class Examples/PowerReceiver/app/build/intermediates/transforms/dexMerger/debug/18
+4.set=DEX
+5.base=/Volumes/MACSTORE/Users/benjamin/Documents/Scratch/cs420/Class Examples/PowerReceiver/app/build/intermediates/transforms/dexMerger/debug/19
+7.base=/Volumes/MACSTORE/Users/benjamin/Documents/Scratch/cs420/Class Examples/PowerReceiver/app/build/intermediates/transforms/dexMerger/debug/20
+9.base=/Volumes/MACSTORE/Users/benjamin/Documents/Scratch/cs420/Class Examples/PowerReceiver/app/build/intermediates/transforms/dexMerger/debug/11
+=======
+1.base=C\:\\Windsor University\\60420 Mobile Application Development\\Applications\\PowerReceiver\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+8.path=classes.dex
+3.base=C\:\\Windsor University\\60420 Mobile Application Development\\Applications\\PowerReceiver\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+4.set=DEX
+5.base=C\:\\Windsor University\\60420 Mobile Application Development\\Applications\\PowerReceiver\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+7.base=C\:\\Windsor University\\60420 Mobile Application Development\\Applications\\PowerReceiver\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+9.base=C\:\\Windsor University\\60420 Mobile Application Development\\Applications\\PowerReceiver\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+>>>>>>> a3eabd4f586ee6c7caf959c07089ab0233e80cb9
+1.baseType=DIRECTORY
+0.set=DEX
+6.baseType=DIRECTORY
+7.set=DEX
+3.set=DEX
+2.baseType=DIRECTORY
+10.baseType=DIRECTORY
+1.path=classes.dex
+7.baseType=DIRECTORY
+3.path=classes.dex
+10.set=DEX
+5.path=classes.dex
+<<<<<<< HEAD
+0.base=/Volumes/MACSTORE/Users/benjamin/Documents/Scratch/cs420/Class Examples/PowerReceiver/app/build/intermediates/transforms/dexMerger/debug/13
+7.path=classes.dex
+9.path=classes.dex
+6.set=DEX
+2.base=/Volumes/MACSTORE/Users/benjamin/Documents/Scratch/cs420/Class Examples/PowerReceiver/app/build/intermediates/transforms/dexMerger/debug/15
+4.base=/Volumes/MACSTORE/Users/benjamin/Documents/Scratch/cs420/Class Examples/PowerReceiver/app/build/intermediates/transforms/dexMerger/debug/17
+3.baseType=DIRECTORY
+6.base=/Volumes/MACSTORE/Users/benjamin/Documents/Scratch/cs420/Class Examples/PowerReceiver/app/build/intermediates/transforms/dexMerger/debug/21
+10.base=/Volumes/MACSTORE/Users/benjamin/Documents/Scratch/cs420/Class Examples/PowerReceiver/app/build/intermediates/transforms/dexMerger/debug/14
+8.base=/Volumes/MACSTORE/Users/benjamin/Documents/Scratch/cs420/Class Examples/PowerReceiver/app/build/intermediates/transforms/dexMerger/debug/12
+=======
+0.base=C\:\\Windsor University\\60420 Mobile Application Development\\Applications\\PowerReceiver\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+7.path=classes.dex
+9.path=classes.dex
+6.set=DEX
+2.base=C\:\\Windsor University\\60420 Mobile Application Development\\Applications\\PowerReceiver\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\17
+4.base=C\:\\Windsor University\\60420 Mobile Application Development\\Applications\\PowerReceiver\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+3.baseType=DIRECTORY
+6.base=C\:\\Windsor University\\60420 Mobile Application Development\\Applications\\PowerReceiver\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\20
+10.base=C\:\\Windsor University\\60420 Mobile Application Development\\Applications\\PowerReceiver\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\21
+8.base=C\:\\Windsor University\\60420 Mobile Application Development\\Applications\\PowerReceiver\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+>>>>>>> a3eabd4f586ee6c7caf959c07089ab0233e80cb9
+2.set=DEX
+8.baseType=DIRECTORY
+9.set=DEX
+count=11
+4.baseType=DIRECTORY
+5.set=DEX
+9.baseType=DIRECTORY
+0.path=classes.dex
+1.set=DEX
+2.path=classes.dex

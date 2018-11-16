@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="3"
+    android:padding="10dp"
+    android:useDefaultMargins="true"
+    tools:context=".CalculatorActivity">
+
+    <EditText
+        android:id="@+id/amountEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="0"
+        android:layout_columnSpan="3"
+        android:digits="0123456789"
+        android:ems="10"
+        android:inputType="number"
+        android:maxLength="6" />
+
+    <TextView
+        android:id="@+id/amountTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="0"
+        android:layout_columnSpan="3"
+        android:layout_gravity="fill_horizontal"
+        android:layout_row="0"
+        android:background="@color/amount_background"
+        android:elevation="@dimen/textview_elevation"
+        android:hint="@string/enter_amount"
+        android:padding="@dimen/textview_padding" />
+
+    <TextView
+        android:id="@+id/taxPercentLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|end"
+        android:text="@string/tax" />
+
+    <TextView
+        android:id="@+id/taxPercentTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|end"
+        android:text="@string/tax_percentage" />
+
+    <SeekBar
+        android:id="@+id/taxPercentSeekBar"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/seekbar_height"
+        android:layout_gravity="fill_horizontal"
+        android:max="30"
+        android:progress="13" />
+
+    <TextView
+        android:id="@+id/shipPercentLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|end"
+        android:text="@string/ship" />
+
+    <TextView
+        android:id="@+id/shipPercentTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|end"
+        android:text="@string/ship_percentage" />
+
+    <SeekBar
+        android:id="@+id/shipPercentSeekBar"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/seekbar_height"
+        android:layout_gravity="fill_horizontal"
+        android:max="20"
+        android:progress="10" />
+
+    <TextView
+        android:id="@+id/shipLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:text="@string/tax" />
+
+    <TextView
+        android:id="@+id/taxTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill_horizontal"
+        android:background="@color/result_background"
+        android:elevation="@dimen/textview_elevation"
+        android:gravity="center"
+        android:padding="@dimen/textview_padding" />
+
+    <TextView
+        android:id="@+id/shiplLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:hint="Ship"
+        android:text="@string/ship" />
+
+    <TextView
+        android:id="@+id/shipTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill_horizontal"
+        android:background="@color/result_background"
+        android:elevation="@dimen/textview_elevation"
+        android:gravity="center"
+        android:padding="@dimen/textview_padding" />
+
+    <TextView
+        android:id="@+id/totalLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:hint="@string/total"
+        android:text="Total" />
+
+    <TextView
+        android:id="@+id/totalTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill_horizontal"
+        android:background="@color/result_background"
+        android:elevation="@dimen/textview_elevation"
+        android:gravity="center"
+        android:padding="@dimen/textview_padding" />
+</GridLayout>
