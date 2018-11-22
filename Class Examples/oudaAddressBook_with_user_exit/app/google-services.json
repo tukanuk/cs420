@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "450736436612",
+    "firebase_url": "https://testproject-83e07.firebaseio.com",
+    "project_id": "testproject-83e07",
+    "storage_bucket": "testproject-83e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450736436612:android:96c3b226f684ee39",
+        "android_client_info": {
+          "package_name": "com.ouda.addressbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450736436612-acjdhghda4f9hhrr7ia0p1ml5en0nvh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSLIjxkqvt2lTuhru2T1BdoTzlZs0zo0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
