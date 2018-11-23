@@ -41,18 +41,26 @@ public class UserActivity extends AppCompatActivity {
             dbHelper.addUser(username, userpassword);
             Toast.makeText(this, "New user "+username +" has been added.", Toast.LENGTH_LONG).show();
             MainActivity.USERNAME = username;
-            Intent addBook = new Intent (this, MainActivity.class);
+            //Intent addBook = new Intent (this, MainActivity.class);
             //System.out.println(" at login in UserActivity username = "+username);
-            startActivity(addBook);
+            //startActivity(addBook);
+
+            Intent drawerAct = new Intent (this, DrawerActivity.class);
+            MainActivity.USERNAME = username;
+            startActivity(drawerAct);
+
         }
          else
         {
             if (dbHelper.Authenticate(username, userpassword))
 
             {
-                Intent addBook = new Intent (this, MainActivity.class);
+//                Intent addBook = new Intent (this, MainActivity.class);
+//                MainActivity.USERNAME = username;
+//                startActivity(addBook);
+                Intent drawerAct = new Intent (this, DrawerActivity.class);
                 MainActivity.USERNAME = username;
-                startActivity(addBook);
+                startActivity(drawerAct);
             }
             else
             {
