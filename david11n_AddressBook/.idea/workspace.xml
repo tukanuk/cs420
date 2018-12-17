@@ -16,1227 +16,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6e91c1a-2dfd-4bde-835d-a270ee19028a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../david11n_WeatherViewer/.idea/dictionaries/benjamin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../david11n_WeatherViewer/app/src/main/java/com/david11n/weatherviewer/SettingsActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../david11n_WeatherViewer/app/src/main/java/com/david11n/weatherviewer/SettingsActivityFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../david11n_WeatherViewer/app/src/main/res/drawable/ic_settings_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../david11n_WeatherViewer/app/src/main/res/layout/activity_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../david11n_WeatherViewer/app/src/main/res/layout/content_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../david11n_WeatherViewer/app/src/main/res/layout/fragment_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../david11n_WeatherViewer/app/src/main/res/menu/menu_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../david11n_WeatherViewer/app/src/main/res/values/arrays.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../david11n_WeatherViewer/app/src/main/res/xml/preferences.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Archive/Summer 2018/eclipse/.A4_104924033.zip.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Archive/Summer 2018/eclipse/A4_104924033/.A4.1_class_diagram_mod.png.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Archive/Winter 2018/cs141/lab7/.test2.dat.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/.Ch6 Arrays.pdf.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/.ch5 - functions 60-141.pdf.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs256/apue.3e/Make.defines.freebsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs256/apue.3e/Make.defines.linux" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs256/apue.3e/Make.defines.macos" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs256/apue.3e/Make.defines.solaris" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs256/apue.3e/advio/fixup.awk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs256/apue.3e/advio/rot13c2.c.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs256/apue.3e/standards/conf.c.modified" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs256/apue.3e/standards/makeconf.awk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs256/apue.3e/standards/makeopt.awk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs256/apue.3e/standards/pathconf-lim.sym" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs256/apue.3e/standards/pathconf-opt.sym" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs256/apue.3e/standards/sysconf-lim.sym" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs256/apue.3e/standards/sysconf-opt.sym" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Irvine16.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Irvine32.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Kernel32.Lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib16/IRVINE16.BAK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib16/IRVINE16.LIB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib16/Irvine16.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib16/command_prompt.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib16/floatio.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib16/floatio.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib16/floatio.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib16/irvine16.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib16/irvine16.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib16/makeLib.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/ClassLibraryProject.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/ClassLibraryProject.vcxproj.filters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/ClassLibraryProject.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/.NETFramework,Version=v4.0.AssemblyAttributes.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/AssemblyInfo.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/CL.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/CL.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/ClassLibraryProject.dll.intermediate.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/ClassLibraryProject.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/ClassLibraryProject.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/ClassLibraryProject.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/Stdafx.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/app.res" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/cl.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/link.4040-cvtres.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/link.4040-cvtres.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/link.4040.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/link.4040.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/link.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/link.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/link.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/mt.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/mt.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/mt.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/rc.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/rc.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/rc.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/Debug/vc100.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/ClassLibraryProject/app.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/ClassLibraryProject.ilk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/ClassLibraryProject.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/Irvine32.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/Irvine32_Library.exe.intermediate.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/Irvine32_Library.ilk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/Irvine32_Library.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/Irvine32_Library.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/Irvine32_Library.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/cmdtest.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/floatio.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/link.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/link.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/link.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/mt.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/mt.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Debug/mt.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Irvine32.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Irvine32.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Irvine32.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Irvine32.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/LibTest.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Update_Irvine32_Library.sdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Update_Irvine32_Library.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Update_Irvine32_Library.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Update_Irvine32_Library.vcproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Update_Irvine32_Library.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Update_Irvine32_Library.vcxproj.filters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/Update_Irvine32_Library.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/User32.Lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/asmOnly.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/cmdtest.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/cmdtest.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/cmdtest.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/floatio.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/floatio.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/floatio.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/Irvine32_Library/makeLib.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/LibTest.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/floatio.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/kernel32.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/main.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib32/user32.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib64/Irvine64.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib64/Irvine64.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/Lib64/Lib64test.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/User32.Lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/b16.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/b32.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch03/16-bit.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch03/64 bit/AddTwoSum_64.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch03/64 bit/template_64.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch03/AddTwo.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch03/AddTwoSum.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch03/AddTwoSum_64.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch03/AddVariables.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch03/template.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch04/32 bit/AdditionTest.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch04/32 bit/CopyStr.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch04/32 bit/Moves.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch04/32 bit/Operator.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch04/32 bit/Pointers.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch04/32 bit/SumArray.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch04/32 bit/template.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch04/64 bit/AddAndSubtract.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch04/64 bit/Moves.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch04/64 bit/SumArray_64.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch05/32 bit/CodePageDemo.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch05/32 bit/InputLoop.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch05/32 bit/RevStr.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch05/32 bit/TestArraySum.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch05/32 bit/TestLib1.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch05/32 bit/TestLib2.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch05/32 bit/TestLib3.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch05/32 bit/colors.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch05/32 bit/msgbox.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch05/32 bit/msgboxAsk.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch05/64 bit/CallProc_64.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch05/64 bit/Lib64test.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch05/64 bit/TestRandom.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/32 bit/ArryScan.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/32 bit/Encrypt.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/32 bit/Finite.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/32 bit/Flowchart.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/32 bit/Loopnz.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/32 bit/ProcTble.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/32 bit/Regist.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/32 bit/RegistAlt.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/32 bit/Section_6_7_1.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/32 bit/SetCur.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/32 bit/TestGetCommandTail.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/32 bit/ifstatements.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/32 bit/jumps.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch06/64 bit/BooleanOps.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/ASCII_add.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/AddPacked.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/BinToAsc.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/Bmult.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/CompareMult.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/Divide32.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/Express.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/ExtAdd.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/Idiv.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/MultiShift.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/Multiply.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/Shrd.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/WriteBin.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/encrypt_1.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/32 bit/imul.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch07/64 bit/mul_and_imul.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/AddTwo.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ArrayFill.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ArrySum.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples.sdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/C_Examples.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/C_Examples.vcxproj.filters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/C_Examples.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/CL.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/CL.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/C_Examples.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/C_Examples.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/cl.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/link-cvtres.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/link-cvtres.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/link-rc.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/link-rc.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/link.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/link.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/link.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/makeArray.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/makeArray.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/C_Examples/C_Examples/Release/vc110.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/Endless.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/Fact.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/LocalExample.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/LocalVars.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/MakeArray.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/ModSum.ilk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/ModSum.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/ModSum.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/ModSum.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/Sum_main.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/_arrysum.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/_display.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/_prompt.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/link-cvtres.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/link-cvtres.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/link-rc.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/link-rc.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/link.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/link.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Debug/link.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/ModSum.sdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/ModSum.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/ModSum.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/ModSum.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/ModSum.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/ModSum.vcxproj.filters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/ModSum.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/Sum_main.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/_arrysum.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/_display.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_advanced/ModSum/_prompt.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/ModSum.ilk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/ModSum.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/ModSum.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/ModSum.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/Sum_main.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/_arrysum.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/_display.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/_prompt.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/link-cvtres.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/link-cvtres.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/link-rc.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/link-rc.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/link.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/link.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Debug/link.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/ModSum.sdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/ModSum.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/ModSum.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/ModSum.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/ModSum.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/ModSum.vcxproj.filters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/ModSum.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/Sum_main.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/_arrysum.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/_display.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/ModSum32_traditional/ModSum/_prompt.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/Multiword.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/Params.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/Prototypes.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/Read_File.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/Recurse.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/RecursiveSum.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/Reglist.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/Smallint.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/Test_WriteStackFrame.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/Uppercase.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/UsesTest.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/proc.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/Debug/Masm.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/Debug/PublicAndExternExamples.ilk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/Debug/PublicAndExternExamples.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/Debug/PublicAndExternExamples.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/Debug/PublicAndExternExamples.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/Debug/main.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/Debug/sub1.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/Masm.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/Masm.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/Masm.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/PublicAndExtern.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/PublicAndExtern.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/PublicAndExtern.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/main.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/sub1.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/public_and_extern/sub2.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch08/32 bit/swap.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Base-Index.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Binary_Search/BinarySearch.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Binary_Search/BinarySearchTest.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Binary_Search/Binary_Search.sdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Binary_Search/Binary_Search.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Binary_Search/Binary_Search.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Binary_Search/Binary_Search.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Binary_Search/BubbleSort.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Binary_Search/FillArray.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Binary_Search/PrintArray.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Binary_Search/SampleProject.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Binary_Search/SampleProject.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Bsort.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Cmpsb.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Compare.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/CopyStr.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Length.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Mult.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/RowSum.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/StringDemo.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Table.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Table2.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Trim.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/32 bit/Ucase.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/64 bit/Irvine64.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/64 bit/StringLib64Test.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch09/64 bit/TwoDimArrays.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/64-bit/RowSum.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/AllPoints.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/Fibon.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/HelloNew.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/List.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/Macro1.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/Macro2.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/Macro3.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/MacroTest.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/Repeat.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/RowSum.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/ShowTime.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/Struct1.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/Struct2.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/TestDump.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/Union.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/Walk.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/Wraps.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch10/makeHello16.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/AppendFile.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/CheckError.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/Console1.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/Console2.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/CreateFile.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/HeapTest1.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/HeapTest2.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/Keybd.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/MessageBox.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/PeekInput.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/ReadCharTest.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/ReadConsole.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/ReadFile.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/Scroll.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/TestReadkey.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/Timer.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/TimingLoop.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/WinApp.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/WriteColors.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/WriteFile.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch11/template.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch12/Exceptions.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch12/Expr.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch12/FCompare.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch12/LoadAndStore.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch12/LossOfPrecision.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch12/MixedMode.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch12/command_prompt.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch12/expressions.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch12/floatTest32.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch12/fltTst16.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Addem/Project.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Addem/Project.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Addem/Project.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Addem/Project.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Addem/addem.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Addem/addem.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_C/ArraySum_C.sdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_C/ArraySum_C.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_C/ArraySum_C.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_C/ArraySum_C/ArraySum_C.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_C/ArraySum_C/ArraySum_C.vcxproj.filters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_C/ArraySum_C/ArraySum_C.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/ArraySum_OLD.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/ArraySum_debug.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/ArraySum_release.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/Project.ncb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/Project.sdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/Project.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/Project.sln.old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/Project.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/Project.suo.old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/Project.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/Project.vcproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/Project.vcproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/Project.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/ArraySum_bak/Project.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/DirectoryListing/Project.sdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/DirectoryListing/Project.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/DirectoryListing/Project.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/DirectoryListing/Project.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/DirectoryListing/Project.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/DirectoryListing/Project.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/DirectoryListing/asmMain.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Encode/Encode.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Encode/Encode.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Encode/Encode.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Encode/Project.vcproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Encode/Project.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Encode/Project.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Encode/new.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Encode_Inline/Project.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Encode_Inline/Project.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Encode_Inline/Project.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Encode_Inline/Project.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/CL.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/CL.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/IndexOf Test.ilk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/IndexOf Test.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/IndexOf Test.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/IndexOf Test.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/IndexOf.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/cl.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/link-cvtres.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/link-cvtres.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/link-rc.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/link-rc.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/link.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/link.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/link.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/main.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/vc110.idb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/Debug/vc110.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/IndexOf_asm.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/IndexOf_asm.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/IndexOf_asm.vcxproj.filters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/IndexOf_asm.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_asm/indexof.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_cpp/Project.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_cpp/Project.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/IndexOf_cpp/Project.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/InlineTest/Project.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/InlineTest/Project.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/InlineTest/Project.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/InlineTest/Project.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/InlineTest/Project.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/MultiplicationTable/Project.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/MultiplicationTable/Project.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/MultiplicationTable/Project.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/MultiplicationTable/Project.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/MultiplicationTable/Project.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/MultiplicationTable/subr.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Printf_Example/Project.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Printf_Example/Project.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Printf_Example/Project.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Printf_Example/Project.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Printf_Example/Project.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Printf_Example/asmMain.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Printf_Example/asmMain_stub.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Project/IndexOf_Examples.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Project/IndexOf_Examples.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Project/IndexOf_Examples.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Strings/Project.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Strings/Project.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Strings/Project.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Strings/Project.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Strings/Project.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/Strings/strings.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch13/command_prompt.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Binfile.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/DateTime.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Encrypt.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Fileio.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Hello.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Hello2.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Keybd.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Debug/AdditionTest.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Debug/BuildLog.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Debug/Project.exe.intermediate.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Debug/Project.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Debug/Project.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Debug/Project.unsuccessfulbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Debug/Project.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Debug/link.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Debug/link.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Debug/link.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Debug/main.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Debug/mt.dep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Fileio.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Project.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Project.ncb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Project.sdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Project.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Project.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Project.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Project.vcproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Project.vcproj.ASM.Kip.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Project.vcproj.Sunset.Kip.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Project.vcproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/Project.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/main.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Project/main.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Readfile.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/Test16.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/binary array file.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/command_prompt.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/long_filename.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch14/newfile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch15/Cluster.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch15/DiskSpc.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch15/Sector.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch15/Sector.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch15/Sector.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch15/Sector32.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch15/command_prompt.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch16/ClearKbd.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch16/ColorSt2.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch16/Colorstr.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch16/Delay.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch16/DrawLine.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch16/Keybd.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch16/Mode13.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch16/Mouse.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch16/Pixel2.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch16/TextWin.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch16/WriteColors.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch16/command_prompt.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch16/getVideo.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch17/CtrlBrk.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch17/HelloCom.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch17/MultCode.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch17/MultData.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch17/MultiSeg.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch17/No_Reset.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch17/Seg2/command_prompt.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch17/Seg2/make16.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch17/Seg2/seg2.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch17/Seg2/seg2a.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch17/Speaker.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/ch17/command_prompt.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/make16_vs2012.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Irvine/make16_vs2013.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/AddTwo.asm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Debug/AddTwo.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Debug/Project.ilk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Debug/Project.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Debug/Project.tlog/Project.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Debug/Project.tlog/Project.write.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Debug/Project.tlog/link.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Debug/Project.tlog/link.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Debug/Project.tlog/link.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Project.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Project.sdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Project.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Project.v12.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Project.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project32_VS2017/Project.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/Debug/Project64.tlog/Masm.read.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/Debug/Project64.tlog/Masm.write.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/Debug/Project64.tlog/Project64.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/Irvine64.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/Project64.sdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/Project64.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/Project64.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/Project64.v12.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/Project64.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/Project64.vcxproj.filters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/Project64.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/Debug/AddTwoSum_64.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/Debug/Project64.ilk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/Debug/Project64.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/Debug/Project64.tlog/Masm.read.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/Debug/Project64.tlog/Masm.write.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/Debug/Project64.tlog/Project64.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/Debug/Project64.tlog/link.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/Debug/Project64.tlog/link.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/Debug/Project64.tlog/link.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/x64/AddTwoSum_64.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/x64/Project64.ilk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/x64/Project64.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/x64/Project64.tlog/Masm.read.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/x64/Project64.tlog/Masm.write.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/x64/Project64.tlog/Project64.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/x64/Project64.tlog/link.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/x64/Project64.tlog/link.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cs266/Project64/x64/x64/Project64.tlog/link.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/.proguard-rules.pro.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/src/main/res/drawable/.ic_brush_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/src/main/res/drawable/.ic_delete_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/src/main/res/drawable/.ic_palette_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/src/main/res/drawable/.ic_print_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/src/main/res/drawable/.ic_save_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/src/main/res/layout/.fragment_color.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/src/main/res/layout/.fragment_line_width.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/src/main/res/menu/.david11n_fragment_menu.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/src/main/res/values-v21/.styles.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/src/main/res/values-w820dp/.dimens.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/src/main/res/values/.colors.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/src/main/res/values/.dimens.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Art420/app/src/main/res/values/.styles.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_ElementQuiz/.gradlew.bat.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_ElementQuiz/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../104924033_ElementQuiz/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_ElementQuiz/.settings.gradle.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_ElementQuiz/app/.proguard-rules.pro.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_ElementQuiz/app/src/main/java/ca/uwindsor/elementquiz/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../104924033_ElementQuiz/app/src/main/java/ca/uwindsor/elementquiz/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_ElementQuiz/app/src/main/res/color/.button_text_color.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_ElementQuiz/app/src/main/res/drawable/.ic_settings_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_ElementQuiz/app/src/main/res/layout/activity_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../104924033_ElementQuiz/app/src/main/res/layout/activity_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_ElementQuiz/app/src/main/res/values-v21/.styles.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_ElementQuiz/app/src/main/res/values-w820dp/.dimens.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_ElementQuiz/app/src/main/res/values/.dimens.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_ElementQuiz/app/src/main/res/values/.styles.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_KnowledgeQuiz_2/.gradlew.bat.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_KnowledgeQuiz_2/.settings.gradle.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_KnowledgeQuiz_2/app/.proguard-rules.pro.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_KnowledgeQuiz_2/app/src/main/res/anim/.incorrect_shake.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_KnowledgeQuiz_2/app/src/main/res/color/.button_text_color.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_KnowledgeQuiz_2/app/src/main/res/drawable/.ic_settings_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_KnowledgeQuiz_2/app/src/main/res/values-v21/.styles.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_KnowledgeQuiz_2/app/src/main/res/values-w820dp/.dimens.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_KnowledgeQuiz_2/app/src/main/res/values/.dimens.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_KnowledgeQuiz_2/app/src/main/res/values/.styles.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game copy/.gradlew.bat.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game copy/.settings.gradle.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game copy/app/.proguard-rules.pro.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game copy/app/src/main/res/color/.button_text_color.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game copy/app/src/main/res/drawable/.ic_settings_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game copy/app/src/main/res/drawable/.tabletop.png.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game copy/app/src/main/res/values-v21/.styles.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game copy/app/src/main/res/values-w820dp/.dimens.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game copy/app/src/main/res/values/.dimens.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game copy/app/src/main/res/values/.styles.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game/.gradlew.bat.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../104924033_Memory_Game/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game/.settings.gradle.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game/app/.proguard-rules.pro.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../104924033_Memory_Game/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game/app/src/main/res/color/.button_text_color.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game/app/src/main/res/drawable/.ic_settings_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game/app/src/main/res/drawable/.tabletop.png.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game/app/src/main/res/values-v21/.styles.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game/app/src/main/res/values-w820dp/.dimens.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game/app/src/main/res/values/.dimens.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104924033_Memory_Game/app/src/main/res/values/.styles.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/104924033KnowledgeQuiz/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/104924033KnowledgeQuiz/app/src/main/res/drawable/ouda_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/104924033KnowledgeQuiz/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/104924033KnowledgeQuiz/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/104924033KnowledgeQuiz/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/104924033KnowledgeQuiz/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/Doodlz/app/src/main/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/.gradle/4.1/fileContent/.fileContent.lock.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/.gradle/4.1/fileHashes/.resourceHashesCache.bin.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/.gradle/4.1/javaCompile/.classAnalysis.bin.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/.gradle/4.1/javaCompile/.jarAnalysis.bin.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/.gradle/4.1/javaCompile/.javaCompile.lock.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/.gradle/4.1/javaCompile/.taskHistory.bin.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/.gradle/4.1/javaCompile/.taskJars.bin.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/.gradlew.bat.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/.settings.gradle.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/app/.proguard-rules.pro.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/app/src/main/.AndroidManifest.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/app/src/main/res/drawable-hdpi/.ic_exit_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/app/src/main/res/layout/.activity_main.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/app/src/main/res/layout/.content_main.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/app/src/main/res/values-w820dp/.dimens.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/app/src/main/res/values/.colors.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/app/src/main/res/values/.dimens.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/DroidCafe/DroidCafe/app/src/main/res/values/.styles.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/FlagQuiz/app/src/main/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/.gradle/4.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/.gradle/4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/.gradle/4.1/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/.gradle/4.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/.gradle/4.1/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/.gradle/4.1/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/.gradle/4.1/javaCompile/taskJars.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/U6HdJQcTGlTYfZm0VZ23D9q6E94=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/Zdqk5zhXzaJpYVpMqIGPsKbJ1FA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/HelloSharedPrefs/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/OudaDoodlz/Doodlz/app/src/main/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/OudaQuiz/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/OudaQuiz/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/OudaQuiz/app/src/main/res/drawable/ouda_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/OudaQuiz/app/src/main/res/mipmap-anydpi-v26/ouda_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/OudaQuiz/app/src/main/res/mipmap-anydpi-v26/ouda_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/OudaQuiz/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/OudaQuiz/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/OudaQuiz/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/OudaQuiz/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/OudaQuiz/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook/app/src/main/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/4.9/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/4.9/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/4.9/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/4.9/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.gradlew.bat.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/.settings.gradle.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/.proguard-rules.pro.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/src/main/res/drawable/.ic_add_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/src/main/res/drawable/.ic_delete_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/src/main/res/drawable/.ic_exit_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/src/main/res/drawable/.ic_mode_edit_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/src/main/res/drawable/.ic_save_24dp.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/src/main/res/drawable/.textview_border.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/src/main/res/layout/.activity_main.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/src/main/res/layout/.content_main.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/src/main/res/layout/.fragment_contacts.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/src/main/res/values-v21/.styles.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/src/main/res/values/.colors.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/src/main/res/values/.dimens.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class Examples/oudaAddressBook_with_exit/app/src/main/res/values/.styles.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/AddressBook.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/drawable/ic_add_24dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/drawable/ic_delete_24dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/drawable/ic_mode_edit_24dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/drawable/ic_save_24dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/drawable/textview_border.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/layout-large/content_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/layout/content_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/layout/fragment_add_edit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/layout/fragment_contacts.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/layout/fragment_detail.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/menu/fragment_details_menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/AddressBook/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/CannonGame.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/src/main/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/src/main/res/layout/fragment_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/src/main/res/raw/blocker_hit.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/src/main/res/raw/cannon_fire.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/src/main/res/raw/target_hit.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/CannonGame/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Doodlz/app/src/main/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/FlagQuiz/app/src/main/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TipCalculator/app/src/main/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/TwitterSearches.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/src/main/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/src/main/res/drawable/ic_save_24dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/src/main/res/layout/content_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/src/main/res/layout/list_item.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/src/main/res/values/arrays.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/TwitterSearches/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/WeatherViewer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/src/main/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/src/main/res/drawable/ic_done_24dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/src/main/res/layout/content_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/src/main/res/layout/list_item.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WeatherViewer/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/Welcome.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/app/src/main/res/values-w600dp-h600dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/Welcome/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/Welcome.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/WelcomeAccessibility.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/app/src/main/res/values-w600dp-h600dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeAccessibility/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/Welcome.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/WelcomeAccessibility.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/WelcomeInternationalized.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/app/src/main/res/values-es/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/app/src/main/res/values-w600dp-h600dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/WelcomeInternationalized/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/images/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/images/Welcome/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/sounds/blocker_hit.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/sounds/cannon_fire.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Textbook Examples/sounds/target_hit.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskJars.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/david11n/addressbook/data/AddressBookDatabaseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/david11n/addressbook/data/AddressBookDatabaseHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/60334/project/images/Originals/.andres-iga-90533-unsplash copy.jpg.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/60334/project/images/Originals/.andres-iga-90533-unsplash.jpg.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/60334/project/images/fontawesome-free-5.2.0-web/metadata/.icons.json.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/.Archive.zip.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/assets/.107025-unsplash.jpg.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/assets/.Ambassador_Bridge.jpg.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/assets/.detroit_skyline.pxm.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/assets/.sample_listings.png.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/assets/.silly_house.jpg.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.about-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.about-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.about.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.about.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.admin-menu-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.admin-menu-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.admin-menu.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.admin-menu.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.code-editor-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.code-editor-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.code-editor.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.code-editor.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.color-picker-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.color-picker-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.color-picker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.color-picker.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.customize-controls-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.customize-controls-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.customize-controls.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.customize-controls.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.customize-nav-menus-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.customize-nav-menus-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.customize-nav-menus.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.customize-nav-menus.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.customize-widgets-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.customize-widgets-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.customize-widgets.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.customize-widgets.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.deprecated-media-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.deprecated-media-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.deprecated-media.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.deprecated-media.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.farbtastic-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.farbtastic-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.farbtastic.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.farbtastic.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.ie-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.ie-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.ie.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.ie.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.install-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.install-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.install.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.install.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.l10n-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.l10n-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.l10n.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.l10n.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.list-tables-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.list-tables-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.list-tables.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.list-tables.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.media-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.media-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.media.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.media.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.revisions-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.revisions-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.revisions.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.revisions.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.site-icon-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.site-icon-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.site-icon.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.site-icon.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.themes-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.themes-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.themes.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.themes.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.widgets-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.widgets-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.widgets.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.widgets.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.wp-admin-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.wp-admin-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.wp-admin.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/.wp-admin.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/.._admin.scss.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/.._mixins.scss.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/.._variables.scss.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/blue/.colors-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/blue/.colors-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/blue/.colors.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/blue/.colors.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/blue/.colors.scss.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/coffee/.colors-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/coffee/.colors-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/coffee/.colors.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/coffee/.colors.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/coffee/.colors.scss.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/ectoplasm/.colors-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/ectoplasm/.colors-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/ectoplasm/.colors.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/ectoplasm/.colors.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/ectoplasm/.colors.scss.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/light/.colors-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/light/.colors-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/light/.colors.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/light/.colors.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/light/.colors.scss.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/midnight/.colors-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/midnight/.colors-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/midnight/.colors.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/midnight/.colors.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/midnight/.colors.scss.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/ocean/.colors-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/ocean/.colors-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/ocean/.colors.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/ocean/.colors.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/ocean/.colors.scss.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/sunrise/.colors-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/sunrise/.colors-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/sunrise/.colors.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/sunrise/.colors.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-admin/css/colors/sunrise/.colors.scss.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/.rp.tar.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/admin/css/realtypress-admin-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/docs/assets/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/docs/assets/css/print.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/docs/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/docs/assets/css/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/languages/realtypress-premium-en_US.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/languages/realtypress-premium-en_US.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/templates/default/css/bootstrap-child.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/templates/default/css/utilities.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/templates/default/css/widgets.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/bootstrap-3.3.4/css/bootstrap-realtypress.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/bootstrap-3.3.4/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/bootstrap-3.3.4/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/bootstrap-3.3.4/css/prefix.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/bxslider/css/jquery.bxslider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/bxslider/css/jquery.bxslider.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/less/spinning.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/jrange/demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/jrange/demo/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/jrange/demo/main.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/jrange/demo/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/jrange/demo/prism/prism.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/jrange/jquery.range-min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/jrange/jquery.range.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/jrange/jquery.range.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-0.7.3/css/leaflet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-0.7.3/css/leaflet.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/css/MarkerCluster.Default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/css/MarkerCluster.Default.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/css/MarkerCluster.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/css/MarkerCluster.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/css/old/MarkerCluster.Default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/css/old/MarkerCluster.Default.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/css/old/MarkerCluster.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/css/old/MarkerCluster.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/geojson.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering-convexhull.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering-custom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering-everything.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering-geojson.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering-realworld-maxzoom.388.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering-realworld-mobile.388.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering-realworld.10000.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering-realworld.388.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering-realworld.50000.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering-singlemarkermode.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering-spiderfier.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering-zoomtobounds.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering-zoomtoshowlayer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/marker-clustering.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/mobile.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/old-bugs/add-1000-after.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/old-bugs/add-markers-offscreen.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/old-bugs/add-remove-before-addtomap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/old-bugs/animationless-zoom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/old-bugs/click-cluster-at-screen-edge.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/old-bugs/disappearing-marker-from-spider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/old-bugs/doesnt-update-cluster-on-bottom-level.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/old-bugs/remove-add-clustering.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/old-bugs/remove-when-spiderfied.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/old-bugs/removelayer-after-remove-from-map.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/old-bugs/setView-doesnt-remove.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/old-bugs/zoomtoshowlayer-doesnt-need-to-zoom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/old-bugs/zoomtoshowlayer-doesnt-zoom-if-centered-on.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/example/screen.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/docs/spec/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-plugins/fullscreen/css/leaflet.fullscreen.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-plugins/fullscreen/css/leaflet.fullscreen.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-plugins/history/leaflet-history-src.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-plugins/history/leaflet-history.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/leaflet-plugins/loading/css/Control.Loading.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/local-scroll/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/swipebox/css/swipebox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/public/third-party/swipebox/css/swipebox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/realtypress-premium-manual/HTML/assets/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/realtypress-premium-manual/HTML/assets/css/print.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/realtypress-premium-manual/HTML/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/realtypress-premium-manual/HTML/assets/css/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/plugins/realtypress-premium/realtypress-premium-manual/HTML/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentyfifteen/css/.editor-style.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentyfifteen/css/.ie.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentyfifteen/css/.ie7.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentyfifteen/genericons/.Genericons.eot.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentyfifteen/genericons/.Genericons.ttf.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentyfifteen/genericons/.Genericons.woff.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentyfifteen/genericons/.genericons.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentyseventeen/assets/css/.editor-style.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentyseventeen/assets/css/.ie8.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentyseventeen/assets/css/.ie9.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentysixteen/css/.editor-style.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentysixteen/css/.ie.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentysixteen/css/.ie7.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentysixteen/css/.ie8.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentysixteen/genericons/.Genericons.eot.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentysixteen/genericons/.Genericons.ttf.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentysixteen/genericons/.Genericons.woff.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/themes/twentysixteen/genericons/.genericons.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/uploads/2018/06/.Ambassador_Bridge.jpg.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/uploads/2018/06/.sample_listings.png.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-content/uploads/2018/06/.silly_house.jpg.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/.wlwmanifest.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/certificates/.ca-bundle.crt.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.admin-bar-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.admin-bar-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.admin-bar.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.admin-bar.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.buttons-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.buttons-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.buttons.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.buttons.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.customize-preview-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.customize-preview-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.customize-preview.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.customize-preview.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.dashicons.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.dashicons.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.jquery-ui-dialog-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.jquery-ui-dialog-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.jquery-ui-dialog.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.jquery-ui-dialog.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.media-views-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.media-views-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.media-views.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.media-views.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.wp-auth-check-rtl.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.wp-auth-check-rtl.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.wp-auth-check.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.wp-auth-check.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.wp-embed-template-ie.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.wp-embed-template-ie.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.wp-embed-template.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/css/.wp-embed-template.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/js/codemirror/.codemirror.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/js/crop/.cropper.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/js/imgareaselect/.imgareaselect.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/js/jcrop/.jquery.Jcrop.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/js/mediaelement/.mediaelementplayer-legacy.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/js/mediaelement/.mediaelementplayer-legacy.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/js/mediaelement/.mediaelementplayer.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/js/mediaelement/.mediaelementplayer.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/js/mediaelement/.wp-mediaelement.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/js/mediaelement/.wp-mediaelement.min.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/js/thickbox/.thickbox.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../public_html/gbc/Mary_Davidson/wp-includes/js/tinymce/plugins/compat3x/css/.dialog.css.icloud" beforeDir="false" />
-    </list>
+    <list default="true" id="d6e91c1a-2dfd-4bde-835d-a270ee19028a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1257,7 +37,30 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/david11n/addressbook/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1955">
+              <caret line="120" column="25" selection-start-line="120" selection-start-column="25" selection-end-line="120" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddEditFragment.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/david11n/addressbook/AddEditFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="184" column="64" lean-forward="true" selection-start-line="184" selection-start-column="64" selection-end-line="184" selection-end-column="64" />
+              <folding>
+                <element signature="e#6609#6998#0" expanded="true" />
+                <element signature="e#6997#6998#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -3383,11 +2186,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="3008" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1177" />
+    <option name="height" value="1123" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -3398,9 +2201,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
+            <path>
+              <item name="david11n_AddressBook" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="david11n_AddressBook" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="david11n_AddressBook" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="addressbook" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
             <path>
               <item name="david11n_AddressBook" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
@@ -3409,9 +2230,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3636,13 +2454,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3008" y="23" width="1920" height="1177" extended-state="6" />
+    <frame x="3008" y="23" width="1920" height="1123" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="DB Browser" weight="0.32960597" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Build Variants" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="DB Execution Console" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -3653,6 +2474,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20500532" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.16276804" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" weight="0.6605424" />
@@ -3664,7 +2486,6 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.16348055" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3294347" />
@@ -3889,13 +2710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/david11n/addressbook/AddEditFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="191" column="42" selection-start-line="191" selection-start-column="42" selection-end-line="191" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest">
         <state />
@@ -3903,13 +2717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/david11n/addressbook/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -4017,6 +2824,24 @@
       </provider>
       <provider editor-type-id="text-editor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/david11n/addressbook/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="120" column="25" selection-start-line="120" selection-start-column="25" selection-end-line="120" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/david11n/addressbook/AddEditFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="184" column="64" lean-forward="true" selection-start-line="184" selection-start-column="64" selection-end-line="184" selection-end-column="64" />
+          <folding>
+            <element signature="e#6609#6998#0" expanded="true" />
+            <element signature="e#6997#6998#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

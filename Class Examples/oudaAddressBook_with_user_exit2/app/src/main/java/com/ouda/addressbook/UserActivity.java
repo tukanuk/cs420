@@ -45,7 +45,7 @@ public class UserActivity extends AppCompatActivity {
             //System.out.println(" at login in UserActivity username = "+username);
             //startActivity(addBook);
 
-            Intent drawerAct = new Intent (this, DrawerActivity.class);
+            Intent drawerAct = new Intent (this, MainActivity.class);
             MainActivity.USERNAME = username;
             startActivity(drawerAct);
 
@@ -58,7 +58,7 @@ public class UserActivity extends AppCompatActivity {
 //                Intent addBook = new Intent (this, MainActivity.class);
 //                MainActivity.USERNAME = username;
 //                startActivity(addBook);
-                Intent drawerAct = new Intent (this, DrawerActivity.class);
+                Intent drawerAct = new Intent (this, MainActivity.class);
                 MainActivity.USERNAME = username;
                 startActivity(drawerAct);
             }
